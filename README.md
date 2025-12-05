@@ -1,1 +1,1 @@
-# MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route ---Flipkart-
+# MY-SQL Project (Logestics Optimization for Delivery Routes - Flipkart)
