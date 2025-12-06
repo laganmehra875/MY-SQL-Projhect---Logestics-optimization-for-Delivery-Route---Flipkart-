@@ -1,6 +1,6 @@
 # MY-SQL Project (Logestics Optimization for Delivery Routes - Flipkart)
 
-## 🎯 Project Objective:
+## 🎯 Project Objective :
 
 Analyze delivery delay patterns
 
@@ -20,7 +20,20 @@ Summarize insights in a PPT presentation
 
 - <a href="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/final%20project.sql"> MY-SQL Dataset </a>
 
-## KEY FINDINGS
+
+## 📊 Key Features of the PPT :
+
+Cleanly formatted SQL queries
+
+Output tables directly pasted from the database
+
+Visualizations for delay patterns, route KPIs, warehouse efficiency, and agent performance
+
+Actionable insights and recommendations
+
+- PPT LINK : <a href="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/lalit%20project%20presentation%20.pptx">flipkart project</a>
+
+## KEY FINDINGS :
 
 1. Delivery delays are a major operational challenge
 Flipkart faces delays caused by congestion, hub/warehouse processing issues, traffic disruptions, and route inefficiencies. 
@@ -46,7 +59,7 @@ Multiple delay checkpoints and common delay reasons highlight gaps in real-time 
 The project aims to leverage SQL to clean data, analyze delays, optimize routing, review agent and warehouse performance, and produce KPIs. 
 
 
-## RECOMMENDATIONS
+## RECOMMENDATIONS :
 
 1. Optimize delivery routes using traffic and delay data
 Identify high-delay routes and redesign them with alternative paths, time-based scheduling, or dynamic routing. 
@@ -72,7 +85,7 @@ Track delivery delay per region, on-time delivery %, warehouse processing averag
 Focus route planning and warehouse upgrades in metro, Tier-2, and Tier-3 regions with high order density. 
 
 
-## CONCLUSION
+## CONCLUSION :
 
 The project aims to strengthen Flipkart’s logistics by using SQL-driven analytics to identify delivery delays, reveal route inefficiencies, assess warehouse and agent performance, and improve shipment tracking.
 By cleaning and analyzing the logistics datasets, Flipkart can build a data-backed optimization strategy that reduces delays, enhances route efficiency, boosts warehouse productivity, and improves customer satisfaction. The actionable insights generated through this project—supported by KPIs and performance reports—will enable smarter operational decisions and long-term logistics optimization.
